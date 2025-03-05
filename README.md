@@ -1,6 +1,6 @@
 # 亚马逊 CAPTCHA 解决方案
 
-[![宣传图](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/amazon)
+[![宣传图](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/amazon)
 
 借助 Bright Data 先进的 CAPTCHA 解决技术，轻松绕过亚马逊的验证码。通过机器学习算法、[自动化 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)和强大的代理基础设施，确保对目标站点的顺畅且持续的访问。
 
